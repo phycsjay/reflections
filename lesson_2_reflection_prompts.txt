@@ -1,0 +1,20 @@
+What happens when you initialize a repository? Why do you need to do it?
+输出显示我初始化了一个空的repository在目录下。 我必须先初始化才能在上面做事。
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+临时存储区仍然在本地，但已经被git控制，等到何时的时机就会被提交给网络，只是一个
+文件的中转站或者说缓存区
+可以控制提交时机，不用此次次提交
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
