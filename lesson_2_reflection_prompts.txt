@@ -7,7 +7,8 @@ What value do you think it offers?
 可以控制提交时机，不用此次次提交
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+每次逻辑更改后都add，然后比对staging area的文件和working directory 以及repository
+里的文件
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
