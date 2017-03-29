@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    it can show me the diffriences between two files. this reduces a lot of job
+    I might need to do.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can just modify the previous version and do not need to worry about I
+    may have introduced some bugs in a period of time.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    手动提交灵活性强，可在每次具有逻辑更改后提交，如果习惯良好有利于编写大型项目
+    自动提交为习惯不好的人自动保存，但有可能保存一些无意义的操作
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    提供多文件提交功能的版本控制系统往往是考虑到用户需要操作多个相关联的文件，比如
+    程序员们在做大型的编程时。而google dock一类的设计初衷瞄准的往往是用户只需要写较
+    为独立的文件
+
+How can you use the commands git log and git diff to view the history of files?
+
+    在git bash中输入git log会显示出近期的提交信息，包括commit author date comment
+    输入git diff commit_id_1 commit_id_2  可以比较两个文件的差异  
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    我可以放心大胆的修改文件，一旦有bug我只需要用git checkout 来返回到原来的commit即可
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    完成udacity的项目哈哈哈哈
