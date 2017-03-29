@@ -15,7 +15,7 @@ organized? How would branches help?
 我可以只在新的分支上进行修改，而不影响到其它分支，直到我确定了我的修改可以被应用到
 其它分支上我再进行一些合并工作
 How do the diagrams help you visualize the branch structure?
-
+图表直观的展现了分支的情况，使我对其结构的想象呈现在我眼前
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
