@@ -11,7 +11,9 @@ change?
 里的文件
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-
+当我想要为我的程序添加一些新功能，或者做一些更改测试的时候。
+我可以只在新的分支上进行修改，而不影响到其它分支，直到我确定了我的修改可以被应用到
+其它分支上我再进行一些合并工作
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
